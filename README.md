@@ -39,3 +39,8 @@ export PINECONE_API_KEY=your_pinecone_api_key
 export GOOGLE_API_KEY=your_google_api_key
 streamlit run app.py
 ```
+### **Demo**
+
+
+https://github.com/user-attachments/assets/3ff14e1b-1aee-4b5a-a1ca-f17c64611d52
+
